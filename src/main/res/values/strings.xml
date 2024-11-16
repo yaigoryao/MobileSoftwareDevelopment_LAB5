@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab5</string>
+    <string name="authors_list_label">Список авторов</string>
+    <string name="compositions_list_label">Список произведений автора </string>
+</resources>
